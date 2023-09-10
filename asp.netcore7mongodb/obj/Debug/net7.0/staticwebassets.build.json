@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vKpek1Bbv1jhQaTwdlbtkXbNjj6Ghm2Jawo6RYXO+1Y=",
+  "Source": "asp.netcore7mongodb",
+  "BasePath": "_content/asp.netcore7mongodb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
